@@ -24,7 +24,7 @@ rich==14.0.0
 scikit_learn==1.7.0
 scipy==1.16.0
 Shapely==2.1.1
-skimage==0.0
+scikit-image
 timm==1.0.15
 torch==2.7.1
 torch_geometric==2.6.1
